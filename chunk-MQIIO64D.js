@@ -1,0 +1,1 @@
+import"./chunk-7CGTOI24.js";var o=[{path:"contacto",loadComponent:()=>import("./chunk-JULFEKD2.js")},{path:"**",redirectTo:"inicio"},{path:"inicio",loadComponent:()=>import("./chunk-JFZN62RM.js")}];export{o as default};
